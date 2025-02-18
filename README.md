@@ -13,10 +13,13 @@ Finance graduate with expertise in financial analysis, pricing strategies, and c
 
 Work Experience
 
-EXLSERVICE.COM INDIA PVT. LTD	                                                                                                                        Gurgaon, India ANALYST                                                                                                                                                                     Nov 2023 – Till Date
+EXLSERVICE.COM INDIA PVT. LTD	                                                   Gurgaon, India ANALYST                                                                                                                                                                                               Nov 2023 – Till Date
 •	Managed end-to-end client profile lifecycle, including setup and decommissioning, ensuring 100% compliance with AMEX GBT contracts and reducing onboarding time by 15%.
+
 •	Led the implementation and decommissioning of client profiles, processing 15+ profiles per month with a 100% accuracy rate. 
+
 •	Implemented late fees across 10+ client accounts, improving revenue collection efficiency by 30% and reducing overdue payments.
+
 •	Led pricing and fee upliftment initiatives, ensuring timely updates and reducing manual interventions by 30% through process automation.
 
 GRAVITIES KNOWLEDGE SERVICES PVT. LTD.	                                                                                               Noida, India              

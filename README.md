@@ -52,16 +52,20 @@ Pizza Sales Report – [SQL, POWER BI]    Github 	                              
 •	Utilized SQL for data extraction & transformation and Power BI for dynamic visualizations, including trend analysis, category-wise revenue breakdowns, and interactive slicers to enhance business insights. 
 
 Skills
+
 1. Data Analysis and Reporting:
+
 •	Advanced Excel (Pivot Tables, Power Query, V-LOOKUP)
 •	SQL(DDL, DML , Joins, CTE, Window Functions)
 •	Power BI
 
 2. CRM & ERP Systems:
+
 •	Salesforce
 •	Netsuite 
 
 3. Productivity and Office Tools:
+
 •	Microsoft Word
 •	PowerPoint
 

@@ -55,19 +55,23 @@ Skills
 
 1. Data Analysis and Reporting:
 
-•	Advanced Excel (Pivot Tables, Power Query, V-LOOKUP)
-•	SQL(DDL, DML , Joins, CTE, Window Functions)
-•	Power BI
+  •	Advanced Excel (Pivot Tables, Power Query, V-LOOKUP)
+
+  •	SQL(DDL, DML , Joins, CTE, Window Functions)
+
+  •	Power BI
 
 2. CRM & ERP Systems:
 
-•	Salesforce
-•	Netsuite 
+  •	Salesforce
+
+  •	Netsuite 
 
 3. Productivity and Office Tools:
 
-•	Microsoft Word
-•	PowerPoint
+  •	Microsoft Word
+
+  •	PowerPoint
 
 * 🌍  I'm based in Noida
 * ✉️  You can contact me at [siddhantdhondiyal@gmail.com](mailto:siddhantdhondiyal@gmail.com)
